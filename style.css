@@ -170,3 +170,40 @@ height: 90%;
     font-size: 0.90rem;
     padding: 20px 0;
 }
+@media  screen and (max-width: 400px) {
+    .mount{
+        width: 400px;
+    }
+    .bottom-cloud {
+        position: absolute;
+        left: 30px;
+        bottom: 130px;
+    }
+    .uppr-cloud {
+        position: absolute;
+       
+        top: 50px;
+        left: 235px;
+    }
+    .intro {
+        width: 50%;
+        margin: auto;
+    }
+  .down{
+    margin-bottom: 50‒;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: auto;
+  }
+  .phy{
+      /* text-align: center; */
+      /* width: 30%; */
+      margin-right: 30%;
+      /* padding: auto; */
+
+      
+  }
+    
+    
+  }
